@@ -1,4 +1,4 @@
 utilityAndMacro
 ===============
 
-macro for some tips
+macro and utility for some tips
